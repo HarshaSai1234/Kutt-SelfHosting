@@ -241,5 +241,3 @@ Download Kutt's extension for web browsers via below links.
 
 Pull requests are welcome. Open a discussion for feedback, requesting features, or discussing ideas.
 
-Special thanks to [Thomas](https://github.com/trgwii) and [Muthu](https://github.com/MKRhere). Logo design by [Muthu](https://github.com/MKRhere).
-
