@@ -239,5 +239,5 @@ Download Kutt's extension for web browsers via below links.
 
 ## Contributing
 
-Pull requests are welcome. Open a discussion for feedback, requesting features, or discussing ideas.
+Pull requests are welcome. Open a discussion for feedback, requesting features, or discussing ideas
 
